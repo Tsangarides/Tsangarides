@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tsangarides
-- 👀 I’m interested in Data Science and particularly Machine Learning - aiming to realise helpful technologies for the human benefit!
-- 🌱 I’m currently learning a lot in the above field.
+- 👋 Hi, I’m Constantinos Tsangarides
+- 👀 A passionate data scientist with a keen interest in machine learning, dedicated to developing technologies that benefit humanity!
+- 🌱 I am continuously expanding my knowledge in this field and am eager to collaborate on projects that are valuable and impactful.
 - 💞️ I’m looking to collaborate on anything valuable, efficient and useful.
-- 📫 How to reach me - ping me here!
+- 📫 Feel free to reach out and connect with me [here](https://www.linkedin.com/in/tsangarides/)! 
 
 <!---
 Tsangarides/Tsangarides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
